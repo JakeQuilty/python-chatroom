@@ -1,0 +1,5 @@
+https://docs.python.org/3/library/socket.html#functions
+https://docs.python.org/3/library/threading.html
+https://realpython.com/intro-to-python-threading/
+https://www.geeksforgeeks.org/python-program-to-validate-an-ip-address/
+In class slides
