@@ -10,8 +10,8 @@ def new_client(client,address):
    print(username + " joined chat(" + address[0] + ")")
 
    welcome_msg = ("\n- - - Connected to chatroom! - - -\n"
-   "  -  Number of users: " + str(threading.active_count()-1)+"\n"
-   "  -  '!exit' to leave\n"
+   "-  Number of users: " + str(threading.active_count()-1)+"\n"
+   "-  '!exit' to leave\n"
    )
    client.send(welcome_msg.encode())
 
